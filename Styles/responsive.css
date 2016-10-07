@@ -1,0 +1,51 @@
+﻿@media (max-width: 767px)
+{
+    .footerLogoWrapper, .footerAddressWrapper, .socialWrapper
+    {
+        margin: 20px 0;
+    }
+    .hb-xs-margin
+    {
+        margin: 10px;
+    }
+    .navbar-default .navbar-brand
+    {
+        padding: 15px 0;
+    }
+    .navbar-header
+    {
+        padding-bottom: 15px;
+    }
+    .navbar-toggle
+    {
+        margin: 15px 0 0;
+    }
+    .navbar-collapse
+    {
+        /*margin-top: 15px;*/
+    }
+
+    .servicesHeaderWrapper span.servicesTitle
+    {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .servicesHeaderWrapper i.fa
+    {
+        margin-right: 6px;
+        width: auto;
+    }
+    .aboutUsWrapper div
+    {
+        padding: 0;
+    }
+
+    .contactAddressWrapper
+    {
+        margin-top: 25px;
+    }
+    .aboutWrapper img
+    {
+        margin: 20px auto;
+    }
+}
